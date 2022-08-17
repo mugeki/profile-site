@@ -40,8 +40,8 @@
       "id": 5,
       "name": "Firecord",
       "description": "A realtime chat web app where users can chat with each other in realtime [Discord Clone]. ",
-      "url_github": "",
-      "url_deploy": "",
+      "url_github": "https://github.com/mugeki/firecord",
+      "url_deploy": "https://fire-cord.netlify.app/",
       "tech_stack": ["TypeScript", "React.JS", "Vite.JS", "Firebase"],
       "image": "https://imgur.com/ZKngMN2.png"
     }
