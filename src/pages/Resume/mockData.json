@@ -1,0 +1,60 @@
+{
+  "experiences": [
+    {
+      "name": "Frontend Web Developer Freelance",
+      "company": "KMPlus Consulting",
+      "location": "West jakarta, Indonesia",
+      "description": "",
+      "date_start": "Jun 2022",
+      "date_end": ""
+    },
+    {
+      "name": "Frontend Web Developer Intern",
+      "company": "KMPlus Consulting",
+      "location": "West jakarta, Indonesia",
+      "description": "- Worked with UI/UX & backend to develop Single Sign-On app and SaaS products.\n- Implement front-end apps with REST API",
+      "date_start": "Mar 2022",
+      "date_end": "Jun 2022"
+    },
+    {
+      "name": "Audio Composer",
+      "company": "RPLGDC Laboratory",
+      "location": "Bandung, West Java, Indonesia",
+      "description": "",
+      "date_start": "Oct 2021",
+      "date_end": ""
+    },
+    {
+      "name": "Full Stack Engineer Apprenticeship",
+      "company": "Alterra Academy",
+      "location": "Malang, East Java, Indonesia",
+      "description": "- Developed REST API for laundry management using Go.\n- Developed a musician freelancing portal front-end using ReactJS.\n- Developed REST API & front-end for gym membership system using Go as back-end & ReactJS as front-end",
+      "date_start": "Aug 2021",
+      "date_end": "Jan 2022"
+    },
+    {
+      "name": "Practicum Assistant: Programming Algorithm",
+      "company": "Telkom University",
+      "location": "Bandung, West Java, Indonesia",
+      "description": "- Supervised the practicum of Programming Algorithm course.\n- Provide tutors to students regarding Programming Algorithm course.",
+      "date_start": "Feb 2021",
+      "date_end": "Jul 2021"
+    },
+    {
+      "name": "Programming Algorithm Tutor",
+      "company": "KONTENT HIMA IF Telkom University",
+      "location": "Bandung, West Java, Indonesia",
+      "description": "- Provide a weekly tutor to students regarding Programming Algorithm course.\n- Provide a midterm and final exam tutor to students regarding Programming Algorithm course.",
+      "date_start": "Jan 2021",
+      "date_end": "Jul 2021"
+    }
+  ],
+  "educations": [
+    {
+      "school": "Telkom University",
+      "degree": "Bachelor's degree, Informatics",
+      "date_start": "2019",
+      "date_end": ""
+    }
+  ]
+}

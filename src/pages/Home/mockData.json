@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Muzeek",
+      "description": "A website to find freelancing musician.",
+      "url_github": "https://github.com/mugeki/muzeek",
+      "url_deploy": "https://muzeek.netlify.app",
+      "tech_stack": ["Bootstrap 5", "React.JS", "Hasura GraphQL", "Firebase"],
+      "image": "https://i.imgur.com/d069wK5.png"
+    },
+    {
+      "id": 2,
+      "name": "LaundroAPI",
+      "description": "A RESTful API to provide provide services such as laundromat searching and laundromat transactions.",
+      "url_github": "https://github.com/mugeki/laundro-api",
+      "url_deploy": "https://documenter.getpostman.com/view/17096681/UUy7aPL5",
+      "tech_stack": ["Go", "ipapi API"],
+      "image": "https://i.imgur.com/8TGo3f4.png"
+    },
+    {
+      "id": 3,
+      "name": "Gymbro",
+      "description": "A B2C web app to provide business clients with gym services such as online classes registration, membership transaction, workout & health tips videos & newsletters.",
+      "url_github": "https://github.com/mugeki/gym-membership-FE",
+      "url_deploy": "https://gymbro.my.id",
+      "tech_stack": ["React.JS", "Next.JS", "Go", "Firebase", "Youtube API"],
+      "image": "https://i.imgur.com/utg4n1r.png"
+    },
+    {
+      "id": 4,
+      "name": "Gotour",
+      "description": "A travel destination sharing app where user can find, save, and rate various travel places from other users.",
+      "url_github": "https://github.com/mugeki/GoTour-FE",
+      "url_deploy": "https://gotour.vercel.app",
+      "tech_stack": ["Tailwind", "React.JS", "Next.JS", "Laravel", "Firebase"],
+      "image": "https://i.imgur.com/myYJkPT.png"
+    },
+    {
+      "id": 5,
+      "name": "Firecord",
+      "description": "A realtime chat web app where users can chat with each other in realtime [Discord Clone]. ",
+      "url_github": "",
+      "url_deploy": "",
+      "tech_stack": ["TypeScript", "React.JS", "Vite.JS", "Firebase"],
+      "image": "https://imgur.com/ZKngMN2.png"
+    }
+  ]
+}
