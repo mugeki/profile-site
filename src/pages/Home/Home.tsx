@@ -110,7 +110,7 @@ export default function Home() {
                 style={{ maxWidth: "500px" }}
               >
                 A passionate computer science student who loves to code and
-                software engineering.
+                highly interested in software engineering.
               </motion.p>
             </div>
             <div className="my-7">
