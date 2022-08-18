@@ -147,7 +147,7 @@ export default function Home() {
               If you have any questions, projects, or simply want to say "Hi",
               feel free to contact me!
             </p>
-            <div className="bg-secondary rounded-3">
+            <div className="rounded-3">
               <form className="flex flex-col gap-5" onSubmit={handleSubmit}>
                 <motion.div
                   initial={{ opacity: 0, x: -50 }}
