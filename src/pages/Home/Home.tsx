@@ -107,10 +107,9 @@ export default function Home() {
                 initial={{ x: -300 }}
                 animate={{ x: 0 }}
                 className="m-0 w-full text-zinc-600 dark:text-zinc-300"
-                style={{ maxWidth: "500px" }}
+                style={{ maxWidth: "50vw" }}
               >
-                A passionate computer science student who loves to code and
-                highly interested in software engineering.
+               Software Engineer with over 3 years of hands-on experience crafting exceptional web platforms. My expertise spans both front-end and back-end development, deeply rooted in technologies like Node.js, React.js, Express.js, and SQL. I'm passionate about building elegant, high-performance solutions and am always eager to collaborate and innovate. Let's create something amazing together!
               </motion.p>
             </div>
             <div className="my-7">

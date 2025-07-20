@@ -1,12 +1,20 @@
 {
   "experiences": [
     {
+      "name": "Software Engineer",
+      "company": "KMPlus Consulting",
+      "location": "West jakarta, Indonesia",
+      "description": "- Led full-stack development of a Single Sign-On (SSO) and Human Capital Management Information System (HCMIS) web application, collaborating with Project Managers and UI/UX designers.\n- Improved product quality and user experience by partnering with Quality Assurance to identify, troubleshoot, and resolve critical bugs and performance issues.\n- Developed interactive and responsive web interfaces from UI/UX designs, ensuring cross-browser compatibility and optimal user engagement.\n- Integrated front-end applications with RESTful APIs, optimizing data flow and ensuring robust client-server communication.\n- Optimized data access and system performance through caching strategies, reducing database load and improving API response times\n- Managed and optimized SQL databases, including schema design, query optimization, and data migration, to ensure data integrity and support high-volume transactional workloads.\n- Participated in peer code reviews and Pull Request (PR) approvals, providing constructive feedback to maintain high code quality.",
+      "date_start": "Oct 2022",
+      "date_end": ""
+    },
+    {
       "name": "Frontend Web Developer Freelance",
       "company": "KMPlus Consulting",
       "location": "West jakarta, Indonesia",
       "description": "",
       "date_start": "Jun 2022",
-      "date_end": ""
+      "date_end": "Sep 2022"
     },
     {
       "name": "Frontend Web Developer Intern",
@@ -22,7 +30,7 @@
       "location": "Bandung, West Java, Indonesia",
       "description": "",
       "date_start": "Oct 2021",
-      "date_end": ""
+      "date_end": "Mar 2022"
     },
     {
       "name": "Full Stack Engineer Apprenticeship",
@@ -54,7 +62,7 @@
       "school": "Telkom University",
       "degree": "Bachelor's degree, Informatics",
       "date_start": "2019",
-      "date_end": ""
+      "date_end": "2023"
     }
   ]
 }
