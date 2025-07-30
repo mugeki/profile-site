@@ -1,6 +1,15 @@
 {
   "projects": [
-     {
+    {
+      "id": 7,
+      "name": "Character Cascade",
+      "description": "A simple 2D physics simulation app. ",
+      "url_github": "https://github.com/mugeki/character-cascade",
+      "url_deploy": "https://character-cascade.vercel.app/",
+      "tech_stack": ["Svelte", "Matter.JS", "TypeScript", "Tailwind"],
+      "image": "https://imgur.com/fAK2YbS.png"
+    },
+    {
       "id": 5,
       "name": "Firecord",
       "description": "A realtime chat web app where users can chat with each other in realtime [Discord Clone]. ",
