@@ -3,10 +3,10 @@
     {
       "id": 7,
       "name": "Character Cascade",
-      "description": "A simple 2D physics simulation app. ",
+      "description": "A simple 2D physics simulation app.",
       "url_github": "https://github.com/mugeki/character-cascade",
       "url_deploy": "https://character-cascade.vercel.app/",
-      "tech_stack": ["Svelte", "Matter.JS", "TypeScript", "Tailwind"],
+      "tech_stack": ["Svelte", "Matter.JS", "TypeScript", "Tailwind", "Supabase"],
       "image": "https://imgur.com/fAK2YbS.png"
     },
     {
